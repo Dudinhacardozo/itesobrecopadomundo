@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.titulo{
+    background-color: rgb(56, 97, 230);
+    text-align: center;
+}
+body  {
+    
+    background-color:black;
+   
+  }
+ 
+  .card{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+
+  }
+  a{
+    color: black;
+  }
+  
+  
